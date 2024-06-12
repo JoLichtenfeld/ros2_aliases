@@ -47,7 +47,7 @@ curl https://raw.githubusercontent.com/cykerway/complete-alias/master/complete_a
 ### 2. Aliases
 Copy the ```.bash_aliases``` to your home directory (or append to your existing file).
 
-Add the following lines to your ```.bashrc```:
+Add or modify the following lines in your ```.bashrc```:
 
 ```
 if [ -f ~/.bash_aliases ]; then
