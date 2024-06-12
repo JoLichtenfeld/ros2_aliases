@@ -17,6 +17,13 @@ alias rbi='ros2 bag info'
 alias rbp='ros2 bag play'
 alias rbr='ros2 bag record'
 
+alias ril='ros2 interface list'
+alias ris='ros2 interface show'
+alias rip='ros2 interface package'
+alias rips='ros2 interface packages'
+
+alias rse='ros2 service echo'
+alias rsi='ros2 service info'
 alias rsl='ros2 service list'
 alias rst='ros2 service type'
 alias rsf='ros2 service find'

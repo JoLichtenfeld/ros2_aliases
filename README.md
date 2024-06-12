@@ -19,6 +19,12 @@ Convenience aliases for basic ROS2 commands. Finger-friendly and time-saving.
 | rbi      | ros2 bag info |
 | rbp      | ros2 bag play |
 | rbr      | ros2 bag record |
+| ril      | ros2 interface list |
+| ris      | ros2 interface show |
+| rip      | ros2 interface package |
+| rips     | ros2 interface packages |
+| rse      | ros2 service echo |
+| rsi      | ros2 service info |
 | rsl      | ros2 service list |
 | rst      | ros2 service type |
 | rsf      | ros2 service find |
