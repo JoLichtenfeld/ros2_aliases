@@ -34,4 +34,11 @@ alias rai='ros2 action info'
 alias rpl='ros2 param list'
 alias rpg='ros2 param get'
 
+alias rl='ros2 launch'
+alias rr='ros2 run'
+
+alias tb='tuda_wss build'
+alias tbt='tuda_wss build --this'
+alias tct='tuda_wss clean --this'
+
 complete -F _complete_alias "${!BASH_ALIASES[@]}"

@@ -33,6 +33,11 @@ Convenience aliases for basic ROS2 commands. Finger-friendly and time-saving.
 | rai      | ros2 action info |
 | rpl      | ros2 param list |
 | rpg      | ros2 param get |
+| rl       | ros2 launch |
+| rr       | ros2 run |
+| tb       | tuda_wss build |
+| tbt      | tuda_wss build --this |
+| tct      | tuda_wss clean --this |
 
 
 ## Instructions
