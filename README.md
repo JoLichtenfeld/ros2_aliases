@@ -13,6 +13,7 @@ Convenience aliases for basic ROS2 commands. Finger-friendly and time-saving.
 | rthz     | ros2 topic hz |
 | rtt      | ros2 topic type |
 | rtd      | ros2 topic delay |
+| rtp      | ros2 topic pub |
 | rnl      | ros2 node list |
 | rni      | ros2 node info |
 | rbl      | ros2 bag list |
