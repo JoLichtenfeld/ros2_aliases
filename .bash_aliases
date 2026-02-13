@@ -8,6 +8,7 @@ alias rtbw='ros2 topic bw'
 alias rthz='ros2 topic hz'
 alias rtt='ros2 topic type'
 alias rtd='ros2 topic delay'
+alias rtp='ros2 topic pub'
 
 alias rnl='ros2 node list'
 alias rni='ros2 node info'
